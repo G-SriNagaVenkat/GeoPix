@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/GeoPix/static/css/main.323bd55c.css",
+    "main.js": "/GeoPix/static/js/main.14a88269.js",
+    "static/js/453.996a6c09.chunk.js": "/GeoPix/static/js/453.996a6c09.chunk.js",
+    "static/media/back.jpg": "/GeoPix/static/media/back.051d1d37458175c3f5fd.jpg",
+    "static/media/1716272992731-203063188-IMG_0923.jpg": "/GeoPix/static/media/1716272992731-203063188-IMG_0923.2e1da93381094bbfb4ec.jpg",
+    "static/media/1716273802938-979676545-IMG_0923.jpg": "/GeoPix/static/media/1716273802938-979676545-IMG_0923.2e1da93381094bbfb4ec.jpg",
+    "static/media/placeholder.png": "/GeoPix/static/media/placeholder.5b205cc7aa0d0587a00f.png",
+    "index.html": "/GeoPix/index.html",
+    "main.323bd55c.css.map": "/GeoPix/static/css/main.323bd55c.css.map",
+    "main.14a88269.js.map": "/GeoPix/static/js/main.14a88269.js.map",
+    "453.996a6c09.chunk.js.map": "/GeoPix/static/js/453.996a6c09.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.323bd55c.css",
+    "static/js/main.14a88269.js"
+  ]
+}
